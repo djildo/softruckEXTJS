@@ -1,0 +1,11 @@
+.x-body {
+    background-image: url("../imagem/background2.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100% 100%;
+}
+.accept {
+    background-image: url(../iamgem/member.png) !important;
+}
